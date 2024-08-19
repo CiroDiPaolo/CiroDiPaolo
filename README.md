@@ -14,7 +14,7 @@
   
 - 🌱 Estoy aprendiendo Bases de datos
   
-- 👯 Me gusta trabajar en equipo
+- 🖥️ Me gusta trabajar en equipo
   
 - ☕ Amo el cafe
 

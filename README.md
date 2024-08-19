@@ -12,7 +12,7 @@
 
 - 📚: Soy estudinte de programación en la UTN
   
-- 🌱 Estoy arendiendo Bases de datos
+- 🌱 Estoy aprendiendo Bases de datos
   
 - 👯 Me gusta trabajar en equipo
   

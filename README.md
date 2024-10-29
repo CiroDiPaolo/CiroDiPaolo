@@ -3,20 +3,7 @@
 <p align='center'>
 </p>
 
-<div size='20px'> Hola! Soy Ciro. Gracias por tomarse el tiempo de ver mi Github! :smile: 
-</div>
-
-<h2> Acerca de mi </h2>
-
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
-- 📚: Soy estudinte de programación en la UTN
-  
-- 🌱 Estoy aprendiendo Bases de datos
-  
-- 🖥️ Me gusta trabajar en equipo
-  
-- ☕ Amo el cafe
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px> </h2>
 <p align="center"> 

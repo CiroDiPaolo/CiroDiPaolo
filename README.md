@@ -14,12 +14,6 @@ Soy desarrollador backend enfocado en el ecosistema Java. Me apasiona construir 
 trabajar en la lógica del sistema y mejorar constantemente mis habilidades.
 </p>
 
-<ul>
-  <li>🔐 Enfocado en seguridad con Spring Security & JWT</li>
-  <li>⚙️ Experiencia creando APIs REST</li>
-  <li>🐳 Primeros pasos en Docker y deploy local</li>
-</ul>
-
 ---
 
 <h2>🛠️ Tech Stack</h2>
@@ -53,7 +47,7 @@ trabajar en la lógica del sistema y mejorar constantemente mis habilidades.
 <h2>📫 Conectemos</h2>
 
 <p>
-<a href="www.linkedin.com/in/cirodp" target="_blank">
+<a href="https://www.linkedin.com/in/cirodp/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://github.com/CiroDiPaolo" target="_blank">
